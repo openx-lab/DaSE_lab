@@ -419,11 +419,19 @@
     {
       "title": "第17单元：实验课8（Hadoop数据处理）",
       "pre": "pre.sh",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:hadoop",
       "steps": [
         {
-          "title": "实验介绍",
+          "title": "Hadoop简介",
           "text": "setup/lab_8/lab_8.1.md"
+        },
+        {
+          "title": "实验一：HDFS基本操作实验",
+          "text": "setup/lab_8/lab_8.2.md"
+        },
+        {
+          "title": "实验二：MapReduce基本操作实验",
+          "text": "setup/lab_8/lab_8.3.md"
         }
       ]
     },
