@@ -19,7 +19,7 @@
 从这里开始输入你的命令
 先打开一个GIt镜像
 
-![pic4](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/pic4.png)
+![pic4](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/pic4.png)
 
 1. 配置用户名和邮箱先
 ```
@@ -50,7 +50,7 @@ _小提示：use.name和“Your Name”之间有空格，Email同上。请把引
 
 4. 将本地仓库文件同步到Github
 	* 在Github创建账号，网址：https://github.com, 在右上角找到“Create a new repo”按钮，创建一个新的仓库：
-![pic4](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/pic5.png)
+![pic4](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/pic5.png)
 在Repository name填入GitRepo，其他保持默认设置，点击“Create repository”按钮，就成功地创建了一个新的Git仓库。
 	* 在本地GitRepo下运行命令，将本地和GitHub关联;
 ```git remote add origin https://github.com/github账户名/GitRepo```

@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c36bece-0919-49d4-be30-9e7dfcf665a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course.json" beforeDir="false" afterPath="$PROJECT_DIR$/course.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片10.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片11.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片12.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片13.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片14.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片15.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片16.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片17.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片18.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片19.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片20.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片21.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片22.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片23.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片24.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片25.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片26.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片27.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片28.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片29.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片30.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片31.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片32.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片33.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片34.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片35.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片36.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片37.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片38.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片39.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片40.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片41.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片42.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片43.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片44.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片45.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片46.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片47.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片48.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片49.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片5.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片50.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片6.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片7.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片8.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course0/幻灯片9.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/clip_image001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片10.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片11.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片12.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片13.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片14.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片15.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片16.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片17.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片18.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片19.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片20.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片21.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片22.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片23.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片24.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片25.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片26.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片27.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片28.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片29.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片30.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片31.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片32.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片33.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片34.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片35.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片36.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片37.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片38.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片39.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片40.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片41.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片42.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片43.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片44.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片45.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片46.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片47.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片48.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片49.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片5.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片50.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片51.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片52.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片53.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片54.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片55.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片56.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片57.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片58.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片59.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片6.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片60.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片61.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片62.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片63.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片64.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片65.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片66.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片67.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片68.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片69.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片7.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片70.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片71.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片72.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片73.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片74.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片75.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片76.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片77.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片78.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片79.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片8.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片80.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片81.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片82.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片83.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片84.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片85.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片86.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片87.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片88.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片89.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片9.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片90.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片91.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片92.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片93.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片94.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片95.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片96.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片97.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片98.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course1/幻灯片99.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片10.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片11.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片12.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片13.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片14.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片15.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片16.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片17.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片18.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片19.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片20.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片21.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片22.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片23.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片24.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片25.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片26.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片27.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片28.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片29.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片30.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片31.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片32.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片33.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片34.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片35.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片36.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片37.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片38.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片39.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片40.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片41.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片42.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片43.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片44.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片45.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片46.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片47.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片48.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片49.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片5.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片50.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片51.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片52.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片53.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片54.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片55.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片56.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片57.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片58.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片59.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片6.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片60.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片61.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片62.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片63.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片64.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片65.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片7.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片8.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/course2/幻灯片9.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lab_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/lab_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lab_1/lab_1.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/lab_1/lab_1.1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lab_1/lab_1.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/lab_1/lab_1.2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lab_1/lab_1.3.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/lab_1/lab_1.3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lab_10.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/lab_10.1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lab_10.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/lab_10.2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lab_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/lab_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lab_3.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/lab_3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lab_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/lab_4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lab_5.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/lab_5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lab_6.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/lab_6.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lab_8.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/lab_8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lab_9.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/lab_9.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/10.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/10.10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/10.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/10.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/10.4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/10.5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/10.6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/10.7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/10.8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/10.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/2.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/2.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/2.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/2.4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/2.5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/2.5的副本.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/3.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/3.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/4.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/4.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/4.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/5.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/5.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/6.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/6.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/6.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/6.4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/6.5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/6.6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/6.7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/6.8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/6.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/8.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/9.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/9.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/9.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/pic1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/pic2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/pic3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/pic4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/pic/pic5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/unit0/course0.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/unit0/course0.1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/unit0/course0.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/unit0/course0.2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/unit0/course0.3.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/unit0/course0.3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/unit0/course0.4.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/unit0/course0.4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/unit0/course0.5.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/unit0/course0.5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/unit1/course1.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/unit1/course1.1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/unit1/course1.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/unit1/course1.2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/unit1/course1.3.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/unit1/course1.3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/unit1/course1.4.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/unit1/course1.4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/unit1/course1.5.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/unit1/course1.5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/unit1/course1.6.md" beforeDir="false" afterPath="$PROJECT_DIR$/setup/unit1/course1.6.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup/lab_1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup/lab_2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup/lab_3.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup/lab_4.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup/lab_6.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup/lab_7.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup/lab_8.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup/lab_9.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup/lab_10.1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/setup/lab_10.2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-7">
+                <caret line="565" lean-forward="true" selection-start-line="565" selection-end-line="565" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clip_image</find>
+      <find>10.1</find>
+      <find>https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/setup/course1.md" />
+        <option value="$PROJECT_DIR$/setup/unit0/course0.1.md" />
+        <option value="$PROJECT_DIR$/setup/unit0/course0.2.md" />
+        <option value="$PROJECT_DIR$/setup/unit0/course0.3.md" />
+        <option value="$PROJECT_DIR$/setup/unit0/course0.4.md" />
+        <option value="$PROJECT_DIR$/setup/unit0/course0.5.md" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/setup/unit1/course1.1.md" />
+        <option value="$PROJECT_DIR$/setup/unit1/course1.2.md" />
+        <option value="$PROJECT_DIR$/setup/unit1/course1.3.md" />
+        <option value="$PROJECT_DIR$/setup/unit1/course1.4.md" />
+        <option value="$PROJECT_DIR$/setup/unit1/course1.5.md" />
+        <option value="$PROJECT_DIR$/setup/unit1/course1.6.md" />
+        <option value="$PROJECT_DIR$/setup/lab_1/lab_1.1.md" />
+        <option value="$PROJECT_DIR$/setup/lab_1/lab_1.2.md" />
+        <option value="$PROJECT_DIR$/setup/lab_1/lab_1.3.md" />
+        <option value="$PROJECT_DIR$/course.json" />
+        <option value="$PROJECT_DIR$/setup/lab_10.2.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DaSE_lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DaSE_lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DaSE_lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DaSE_lab" type="462c0819:PsiDirectoryNode" />
+              <item name="setup" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="DaSE_lab" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="DaSE_lab" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="DaSE_lab" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17521368" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12346939" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2744898" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pre.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/course1/幻灯片3.JPG" />
+    <entry file="file://$PROJECT_DIR$/setup/course1/幻灯片8.JPG" />
+    <entry file="file://$PROJECT_DIR$/setup/course1/幻灯片12.JPG" />
+    <entry file="file://$PROJECT_DIR$/setup/course1/幻灯片15.JPG" />
+    <entry file="file://$PROJECT_DIR$/setup/course1/幻灯片20.JPG" />
+    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片1.JPG" />
+    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片2.JPG" />
+    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片3.JPG" />
+    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片5.JPG" />
+    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片7.JPG" />
+    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片8.JPG" />
+    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片9.JPG" />
+    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片10.JPG" />
+    <entry file="file://$PROJECT_DIR$/setup/course1/幻灯片1.JPG" />
+    <entry file="file://$PROJECT_DIR$/setup/course1/clip_image001.png" />
+    <entry file="file://$PROJECT_DIR$/setup/pic/3.1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/pic/3.2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/pic/4.3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/pic/6.2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/course0.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="680">
+            <caret line="40" column="78" lean-forward="true" selection-start-line="40" selection-start-column="78" selection-end-line="40" selection-end-column="78" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/unit0/course0.1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="116" selection-start-line="4" selection-start-column="116" selection-end-line="4" selection-end-column="116" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/unit0/course0.2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="18" column="117" selection-start-line="18" selection-start-column="117" selection-end-line="18" selection-end-column="117" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/unit0/course0.3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="117" selection-start-line="4" selection-start-column="117" selection-end-line="4" selection-end-column="117" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/unit0/course0.4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="117" selection-start-line="16" selection-start-column="117" selection-end-line="16" selection-end-column="117" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/unit0/course0.5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="697">
+            <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/unit1/course1.1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="425">
+            <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/unit1/course1.2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="612">
+            <caret line="36" column="117" selection-start-line="36" selection-start-column="117" selection-end-line="36" selection-end-column="117" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/unit1/course1.3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="510">
+            <caret line="30" column="117" selection-start-line="30" selection-start-column="117" selection-end-line="30" selection-end-column="117" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/unit1/course1.4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="442">
+            <caret line="26" column="117" selection-start-line="26" selection-start-column="117" selection-end-line="26" selection-end-column="117" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/unit1/course1.5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="646">
+            <caret line="38" column="117" selection-start-line="38" selection-start-column="117" selection-end-line="38" selection-end-column="117" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/unit1/course1.6.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="544">
+            <caret line="32" column="65" lean-forward="true" selection-start-line="32" selection-start-column="65" selection-end-line="32" selection-end-column="65" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_1/lab_1.1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="289">
+            <caret line="17" column="92" lean-forward="true" selection-start-line="17" selection-start-column="92" selection-end-line="17" selection-end-column="92" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_1/lab_1.2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="91" selection-start-line="3" selection-start-column="91" selection-end-line="3" selection-end-column="91" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_1/lab_1.3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="765">
+            <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="412" column="9" lean-forward="true" selection-start-line="412" selection-start-column="9" selection-end-line="412" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/course1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="775">
+            <caret line="139" column="78" selection-start-line="139" selection-start-column="78" selection-end-line="139" selection-end-column="78" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/course2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_6.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_7.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_8.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_9.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_10.1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_10.2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-7">
+            <caret line="565" lean-forward="true" selection-start-line="565" selection-end-line="565" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

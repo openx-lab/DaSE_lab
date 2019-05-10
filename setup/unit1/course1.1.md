@@ -1,12 +1,12 @@
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片1.JPG)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%871.JPG)
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片2.JPG)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%872.JPG)
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片3.JPG)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%873.JPG)
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片4.JPG)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%874.JPG)
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片5.JPG)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%875.JPG)
 
 
 
@@ -15,8 +15,7 @@
 ​																																							——*Charles Darwin*
 
 
-
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/clip_image001.png) 
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/clip_image001.png) 
 
 科学是如实反映客观事物固有规律的系统知识，计算科学是，数据科学也是。人类文明迄今经历了四次浪潮：农业革命，工业革命，信息革命，以及智业革命。
 

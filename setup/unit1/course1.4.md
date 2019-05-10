@@ -1,18 +1,27 @@
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片41.JPG)
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片42.JPG)
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片43.JPG)
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片44.JPG)
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片45.JPG)
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片46.JPG)
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片47.JPG)
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片48.JPG)
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片49.JPG)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%8741.JPG)
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片50.JPG)
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片51.JPG)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%8742.JPG)
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片52.JPG)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%8743.JPG)
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片53.JPG)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%8744.JPG)
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course1/幻灯片54.JPG)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%8745.JPG)
+
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%8746.JPG)
+
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%8747.JPG)
+
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%8748.JPG)
+
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%8749.JPG)
+
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%8750.JPG)
+
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%8751.JPG)
+
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%8752.JPG)
+
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%8753.JPG)
+
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course1/%E5%B9%BB%E7%81%AF%E7%89%8754.JPG)

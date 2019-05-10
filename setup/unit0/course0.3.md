@@ -1,5 +1,5 @@
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course0/幻灯片14.JPG)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course0/%E5%B9%BB%E7%81%AF%E7%89%8714.JPG)
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course0/幻灯片15.JPG)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course0/%E5%B9%BB%E7%81%AF%E7%89%8715.JPG)
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course0/幻灯片16.JPG)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course0/%E5%B9%BB%E7%81%AF%E7%89%8716.JPG)

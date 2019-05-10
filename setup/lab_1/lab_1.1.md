@@ -14,5 +14,5 @@
 
 ## 实验步骤和结果
 
-![pic1](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/pic1.png)
-![pic2](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/pic2.png)
+![pic1](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/pic1.png)
+![pic2](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/pic2.png)

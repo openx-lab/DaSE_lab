@@ -364,7 +364,7 @@ recursive([1,2,3])
 
 ### 实验九 最大公约数
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/3.1.png)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/3.1.png)
 
 
 
@@ -456,7 +456,7 @@ enter n:
 ### 实验十二 计算递归表达式
 
 已知数列{an}的前几项为：
-​![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/3.2.png)
+​![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/3.2.png)
 
 已知a0 = 1，请写出an的递归表达式。
 #### [结果]

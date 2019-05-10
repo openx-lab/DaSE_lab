@@ -1,10 +1,8 @@
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course0/幻灯片1.JPG)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course0/%E5%B9%BB%E7%81%AF%E7%89%871.JPG)
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course0/幻灯片2.JPG)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course0/%E5%B9%BB%E7%81%AF%E7%89%872.JPG)
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/course0/幻灯片3.JPG)
-
- 
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/course0/%E5%B9%BB%E7%81%AF%E7%89%873.JPG)
 
 国内首家迪斯尼乐园已于2016年6月在上海盛大开门营业。乐园拥有七大主题园区：米奇大街、奇想花园、探险岛、宝藏湾、明日世界、梦幻世界、玩具总动园；两座主题酒店：上海迪士尼乐园酒店、玩具总动员酒店；一座地铁站（迪士尼站）；并有许多全球首发游乐项目。
 

@@ -199,8 +199,8 @@ http://www.ruanyifeng.com/blog/2017/09/flame-graph.html
 
 这样的命令，其中-c代表配置。配置里面的c，表示cpu火焰图，m表示内存图，h表示代码热图。当主程序退出后，vprof会自动收集这些数据，并且启动一个http服务器，自动打开浏览器将指定的图表打开展示出来。
 保存实验二的代码为test.py，使用vprof运行代码效果如下：
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/4.1.png)
-​​![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/4.2.png)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/4.1.png)
+​​![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/4.2.png)
 ​​
 
 #### 作业

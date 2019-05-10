@@ -10,7 +10,7 @@
 	
 •student表：
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/6.1.png)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/6.1.png)
 ​
 ​
 ​
@@ -18,11 +18,11 @@
 
 •course表：
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/6.2.png)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/6.2.png)
 ​​​​
 •grade表：
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/6.3.png)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/6.3.png)
 
 ### [前置操作]
 
@@ -47,7 +47,7 @@
 查询年龄大于20的所有学生，仅输出学生姓名。
 [结果]
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/6.4.png)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/6.4.png)
 
 [参考答案]
 	
@@ -59,7 +59,7 @@
 查询LiuYan同学的各科成绩，输出name, cname, score。
 [结果]
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/6.5.png)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/6.5.png)
 ​​​
 ​​​​
 
@@ -76,7 +76,7 @@
 查询课程'Data Structure'成绩>=80, <=90的学生，输出学生id（stuid）和成绩（score）。
 [结果]
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/6.6.png)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/6.6.png)
 ​​​​
 ​​​​
 ​​​​
@@ -92,7 +92,7 @@
 [实验内容]
 统计每个同学成绩为（70<= score <=85）的课程数，输出学生名字（name），课程数（num）。
 
- ![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/6.7.png)
+ ![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/6.7.png)
 
 
 ​​ [参考答案]
@@ -109,7 +109,7 @@
 查询选修“Data Science Essentials”课程的学生，并按照成绩从低到高输出学生姓名（name）。
 [结果]
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/6.8.png)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/6.8.png)
 ​​​
 ​​​​
 ​​​​
@@ -132,7 +132,7 @@
 提示：可使用ifnull将score为null的返回值设为0
 [结果]
 
-![](https://github.com/tianyichow/DaSE_lab/raw/master/setup/pic/6.9.png)
+![](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/6.9.png)
 ​​​​
 ​​​​
 ​​​​
