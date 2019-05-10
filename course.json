@@ -165,7 +165,63 @@
       "steps": [
         {
           "title": "实验介绍",
+          "text": "setup/lab_3/lab_3.0.md"
+        },
+        {
+          "title": "10进制小数转2进制",
           "text": "setup/lab_3/lab_3.1.md"
+        },
+        {
+          "title": "任意进制转10进制",
+          "text": "setup/lab_3/lab_3.2.md"
+        },
+        {
+          "title": "10进制转2进制（包含小数部分）",
+          "text": "setup/lab_3/lab_3.3.md"
+        },
+        {
+          "title": "用逻辑做加法",
+          "text": "setup/lab_3/lab_3.4.md"
+        },
+        {
+          "title": "数据类型表示",
+          "text": "setup/lab_3/lab_3.5.md"
+        },
+        {
+          "title": "赋值语句",
+          "text": "setup/lab_3/lab_3.6.md"
+        },
+        {
+          "title": "控制结构",
+          "text": "setup/lab_3/lab_3.7.md"
+        },
+        {
+          "title": "函数调用和参数传递",
+          "text": "setup/lab_3/lab_3.8.md"
+        },
+        {
+          "title": "最大公约数",
+          "text": "setup/lab_3/lab_3.9.md"
+        },
+        {
+          "title": "排序",
+          "text": "setup/lab_3/lab_3.10.md"
+        },
+        {
+          "title": "递归求幂",
+          "text": "setup/lab_3/lab_3.11.md"
+        },
+        {
+          "title": "计算递归表达式",
+          "text": "setup/lab_3/lab_3.12.md"
+        },
+        {
+          "title": "递归求表达式",
+          "text": "setup/lab_3/lab_3.13.md"
+        },
+        {
+          "title": "课后作业",
+          "text": "setup/lab_3/lab_3.14.md"
         }
       ]
     },

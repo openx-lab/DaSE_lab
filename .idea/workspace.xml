@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c36bece-0919-49d4-be30-9e7dfcf665a3" name="Default Changelist" comment="" />
+    <list default="true" id="5c36bece-0919-49d4-be30-9e7dfcf665a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/setup/lab_3/lab_3.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/lab_3/lab_3.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/lab_3/lab_3.10.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/lab_3/lab_3.11.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/lab_3/lab_3.12.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/lab_3/lab_3.13.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/lab_3/lab_3.14.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/lab_3/lab_3.2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/lab_3/lab_3.3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/lab_3/lab_3.4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/lab_3/lab_3.5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/lab_3/lab_3.6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/lab_3/lab_3.7.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/lab_3/lab_3.8.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/lab_3/lab_3.9.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,86 +28,107 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/course.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="614">
-              <caret line="132" column="6" lean-forward="true" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
+        <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.7.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="612">
+                <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/setup/lab_2.md">
+        <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.8.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1425" />
+              <first_editor>
+                <caret column="17" selection-start-column="17" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.0.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="170">
+                <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup/lab_3.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="685">
+                <caret line="484" selection-start-line="484" selection-end-line="488" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.9.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="374">
+                <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.10.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="646">
+                <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.12.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="204">
+                <caret line="12" selection-start-line="12" selection-end-line="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.13.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="272">
+                <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/setup/lab_2/lab_2.1.md">
+        <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.14.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/setup/lab_1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/setup/unit1/course1.1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="425">
-                <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/setup/lab_1/lab_1.1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="289">
-                <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/setup/lab_1/lab_1.2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="51">
-                <caret line="3" column="91" selection-start-line="3" selection-start-column="91" selection-end-line="3" selection-end-column="91" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/setup/lab_1/lab_1.3.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="411">
-                <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+              <first_editor relative-caret-position="34">
+                <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -142,12 +180,35 @@
         <option value="$PROJECT_DIR$/setup/lab_1/lab_1.3.md" />
         <option value="$PROJECT_DIR$/setup/lab_10.2.md" />
         <option value="$PROJECT_DIR$/course.json" />
+        <option value="$PROJECT_DIR$/setup/lab_2.md" />
+        <option value="$PROJECT_DIR$/setup/lab_2/lab_2.2.md" />
+        <option value="$PROJECT_DIR$/setup/lab_2/lab_2.1.md" />
+        <option value="$PROJECT_DIR$/setup/lab_2/lab_2.3.md" />
+        <option value="$PROJECT_DIR$/setup/lab_2/lab_2.4.md" />
+        <option value="$PROJECT_DIR$/setup/lab_3/lab_3.0.md" />
+        <option value="$PROJECT_DIR$/setup/lab_3/lab_3.1.md" />
+        <option value="$PROJECT_DIR$/setup/lab_3/lab_3.2.md" />
+        <option value="$PROJECT_DIR$/setup/lab_3/lab_3.3.md" />
+        <option value="$PROJECT_DIR$/setup/lab_3/lab_3.4.md" />
+        <option value="$PROJECT_DIR$/setup/lab_3/lab_3.5.md" />
+        <option value="$PROJECT_DIR$/setup/lab_3/lab_3.6.md" />
+        <option value="$PROJECT_DIR$/setup/lab_3/lab_3.13.md" />
+        <option value="$PROJECT_DIR$/setup/lab_3/lab_3.12.md" />
+        <option value="$PROJECT_DIR$/setup/lab_3/lab_3.11.md" />
+        <option value="$PROJECT_DIR$/setup/lab_3/lab_3.10.md" />
+        <option value="$PROJECT_DIR$/setup/lab_3/lab_3.9.md" />
+        <option value="$PROJECT_DIR$/setup/lab_3/lab_3.7.md" />
+        <option value="$PROJECT_DIR$/setup/lab_3/lab_3.8.md" />
+        <option value="$PROJECT_DIR$/setup/lab_3/lab_3.14.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -170,13 +231,13 @@
               <item name="DaSE_lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="DaSE_lab" type="462c0819:PsiDirectoryNode" />
               <item name="setup" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_1" type="462c0819:PsiDirectoryNode" />
+              <item name="lab_2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DaSE_lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="DaSE_lab" type="462c0819:PsiDirectoryNode" />
               <item name="setup" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_2" type="462c0819:PsiDirectoryNode" />
+              <item name="lab_3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -192,9 +253,15 @@
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/setup/lab_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/setup/lab_3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/setup/lab_3" />
+      <recent name="$PROJECT_DIR$/setup/lab_2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -252,7 +319,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.07857143" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.07653061" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -264,30 +331,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pre.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/setup/course1/幻灯片3.JPG" />
-    <entry file="file://$PROJECT_DIR$/setup/course1/幻灯片8.JPG" />
-    <entry file="file://$PROJECT_DIR$/setup/course1/幻灯片12.JPG" />
-    <entry file="file://$PROJECT_DIR$/setup/course1/幻灯片15.JPG" />
-    <entry file="file://$PROJECT_DIR$/setup/course1/幻灯片20.JPG" />
-    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片1.JPG" />
-    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片2.JPG" />
-    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片3.JPG" />
-    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片5.JPG" />
-    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片7.JPG" />
-    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片8.JPG" />
-    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片9.JPG" />
-    <entry file="file://$PROJECT_DIR$/setup/course0/幻灯片10.JPG" />
-    <entry file="file://$PROJECT_DIR$/setup/course1/幻灯片1.JPG" />
-    <entry file="file://$PROJECT_DIR$/setup/course1/clip_image001.png" />
-    <entry file="file://$PROJECT_DIR$/setup/pic/3.1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/setup/pic/3.2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/setup/pic/4.3.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -432,14 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/setup/lab_3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/setup/lab_4.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -546,17 +581,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/course.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="132" column="6" lean-forward="true" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/setup/lab_2.md">
+    <entry file="file://$PROJECT_DIR$/setup/lab_2/lab_2.2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1425" />
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -564,7 +594,208 @@
     <entry file="file://$PROJECT_DIR$/setup/lab_2/lab_2.1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_2/lab_2.3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="3" selection-start-column="3" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_2/lab_2.4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1700">
+            <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="170" column="6" lean-forward="true" selection-start-line="170" selection-start-column="6" selection-end-line="170" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="476">
+            <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="884">
+            <caret line="52" column="3" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.6.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="476">
+            <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.11.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="391">
+            <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.10.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="646">
+            <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.9.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.7.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="612">
+            <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.8.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="17" selection-start-column="17" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.0.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.15.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="685">
+            <caret line="484" selection-start-line="484" selection-end-line="488" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.12.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="204">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.13.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup/lab_3/lab_3.14.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
