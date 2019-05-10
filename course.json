@@ -7,7 +7,7 @@
     {
       "title": "第01单元：课程介绍",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
@@ -34,7 +34,7 @@
     {
       "title": "第02单元：绪论",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
@@ -65,7 +65,7 @@
     {
       "title": "第03单元：实验课1（Git与Python基础）",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "实验介绍",
@@ -84,7 +84,7 @@
     {
       "title": "第04单元：数据思维与问题求解",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
@@ -111,7 +111,7 @@
     {
       "title": "第05单元：实验课2（Python问题求解）",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "实验介绍",
@@ -134,7 +134,7 @@
     {
       "title": "第06单元：数据与计算Ⅰ",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
@@ -161,7 +161,7 @@
     {
       "title": "第07单元：实验课3（数据的Python程序表达）",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "实验介绍",
@@ -172,7 +172,7 @@
     {
       "title": "第08单元：数据与计算Ⅱ",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
@@ -199,7 +199,7 @@
     {
       "title": "第09单元：实验课4（Python算法）",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "实验介绍",
@@ -237,7 +237,7 @@
     {
       "title": "第11单元：实验课5（Python程序性能评测）",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "实验介绍",
@@ -248,7 +248,7 @@
     {
       "title": "第12单元：数据的全生命周期管理",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
@@ -283,7 +283,7 @@
     {
       "title": "第13单元：实验课6（Python网络爬虫）",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "实验介绍",
@@ -294,7 +294,7 @@
     {
       "title": "第14单元：数据库系统",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
@@ -325,7 +325,7 @@
     {
       "title": "第15单元：实验课7（SQL数据处理与分析）",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "实验介绍",
@@ -336,7 +336,7 @@
     {
       "title": "第16单元：大数据库系统",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
@@ -363,7 +363,7 @@
     {
       "title": "第17单元：实验课8（Hadoop数据处理）",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "实验介绍",
@@ -374,7 +374,7 @@
     {
       "title": "第18单元：数据科学过程",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
@@ -393,7 +393,7 @@
     {
       "title": "第19单元：实验课9（Python数据科学过程）",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "实验介绍",
@@ -404,7 +404,7 @@
     {
       "title": "第20单元：统计分析原理",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
@@ -427,7 +427,7 @@
     {
       "title": "第21单元：实验课10（Python统计分析）",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "实验介绍",
@@ -438,7 +438,7 @@
     {
       "title": "第22单元：机器学习方法",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
@@ -461,7 +461,7 @@
     {
       "title": "第23单元：实验课11（Python机器学习）",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "实验介绍",
@@ -472,7 +472,7 @@
     {
       "title": "第24单元：深度学习",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
@@ -499,7 +499,7 @@
     {
       "title": "第25单元：实验课12（Python深度学习）",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "实验介绍",
@@ -510,7 +510,7 @@
     {
       "title": "第26单元：数据挖掘基础",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
@@ -537,7 +537,7 @@
     {
       "title": "第27单元：实验课13（Python异构数据挖掘）",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "实验介绍",
@@ -548,7 +548,7 @@
     {
       "title": "第28单元：异构数据挖掘",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
@@ -571,7 +571,7 @@
     {
       "title": "第29单元：实验课14（Python文本与语音数据挖掘）",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "实验介绍",
@@ -582,7 +582,7 @@
     {
       "title": "第30单元：应用综合案例分析",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
@@ -605,7 +605,7 @@
     {
       "title": "第31单元：实验课15（综合项目实践）",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "实验介绍",
@@ -616,7 +616,7 @@
     {
       "title": "第32单元：数据道德与职业行为准则",
       "pre": "pre.sh",
-      "environment": "git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "steps": [
         {
           "title": "本单元概况",
