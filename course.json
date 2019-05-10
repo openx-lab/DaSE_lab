@@ -563,11 +563,35 @@
     {
       "title": "第25单元：实验课12（Python深度学习）",
       "pre": "pre.sh",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:tensorflow",
       "steps": [
         {
-          "title": "实验介绍",
+          "title": "实验简介",
+          "text": "setup/lab_12/lab_12.0.md"
+        },
+        {
+          "title": "1. 加载MNIST数据集",
           "text": "setup/lab_12/lab_12.1.md"
+        },
+        {
+          "title": "2. 训练数据",
+          "text": "setup/lab_12/lab_12.2.md"
+        },
+        {
+          "title": "3. 网络变量",
+          "text": "setup/lab_12/lab_12.3.md"
+        },
+        {
+          "title": "4. 损失函数优化",
+          "text": "setup/lab_12/lab_12.4.md"
+        },
+        {
+          "title": "5. 训练",
+          "text": "setup/lab_12/lab_12.5.md"
+        },
+        {
+          "title": "6. 模型评估",
+          "text": "setup/lab_12/lab_12.6.md"
         }
       ]
     },
