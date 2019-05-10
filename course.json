@@ -7,7 +7,7 @@
     {
       "title": "第01单元：课程介绍",
       "pre": "pre.sh",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python3",
       "steps": [
         {
           "title": "本单元概况",
