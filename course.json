@@ -34,7 +34,7 @@
     {
       "title": "第02单元：绪论",
       "pre": "pre.sh",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python3",
       "steps": [
         {
           "title": "本单元概况",
@@ -65,7 +65,7 @@
     {
       "title": "第03单元：实验课1（Git与Python基础）",
       "pre": "pre.sh",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python3",
       "steps": [
         {
           "title": "实验介绍",
@@ -84,7 +84,7 @@
     {
       "title": "第04单元：数据思维与问题求解",
       "pre": "pre.sh",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python3",
       "steps": [
         {
           "title": "本单元概况",
@@ -111,7 +111,7 @@
     {
       "title": "第05单元：实验课2（Python问题求解）",
       "pre": "pre.sh",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python3",
       "steps": [
         {
           "title": "实验介绍",
@@ -134,7 +134,7 @@
     {
       "title": "第06单元：数据与计算Ⅰ",
       "pre": "pre.sh",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python3",
       "steps": [
         {
           "title": "本单元概况",
@@ -161,7 +161,7 @@
     {
       "title": "第07单元：实验课3（数据的Python程序表达）",
       "pre": "pre.sh",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python3",
       "steps": [
         {
           "title": "实验介绍",
@@ -228,7 +228,7 @@
     {
       "title": "第08单元：数据与计算Ⅱ",
       "pre": "pre.sh",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python3",
       "steps": [
         {
           "title": "本单元概况",
