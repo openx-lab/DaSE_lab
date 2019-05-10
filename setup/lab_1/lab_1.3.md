@@ -3,7 +3,7 @@
 大数据版的“Hello World”程序就是字符统计啦。我们任务很简单，给定一个字符串列表，我们需要统计字符串列表中每种字符串出现次数。
 ![pic3](http://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-DaSE_lab/pic/pic3.png)
 
-### [参考代码]
+### 参考代码
 
 ```
 def wordCount(data):
@@ -18,11 +18,11 @@ if __name__ == "__main__":
 
 ```
 
-### [执行结果]
+### 执行结果
 
 ```The result is {'d': 2, 'ab': 2, 'cd': 1}```
 
-### [疑点解释]
+### 疑点解释
 
 * get()函数：
 该函数的方法语法为 dict.get(key,defult=None)，其中key是字典中要查找的键，defult为如果如果指定键的值不存在时，返回该默认值值。
